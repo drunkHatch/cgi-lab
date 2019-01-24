@@ -9,7 +9,7 @@ from secret import username, password
 
 cgitb.enable()
 
-# print("Content-Type: text/html\n") # showing set cookies here
+print("Content-Type: text/html") # showing set cookies here
 # print()
 # print("<!doctype html><title>Hello</title><h2>Hello World</h2>")
 # print(login_page())
